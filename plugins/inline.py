@@ -74,18 +74,6 @@ async def answer(bot, query):
             switch_pm_parameter="okay",
         )
 
-
-
-
- 
-        
-            
-
-      
-
-
-
-
 def size_formatter(size):
     """Get size in readable format"""
 
